@@ -1,2 +1,0 @@
-//Olá
-console.log("oi")
